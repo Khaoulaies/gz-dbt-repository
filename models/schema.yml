@@ -1,10 +1,10 @@
- # schema.yml
+# schema.yml
 
- version: 2
+version: 2
 
- sources:
-   - name: gz_raw_data
-     tables:
-       - name: gz_raw_product
-       - name: gz_raw_sales
-       - name: gz_raw_ship
+sources:
+  - name: gz_raw_data
+    tables:
+      - name: gz_raw_product
+      - name: gz_raw_sales
+      - name: gz_raw_ship
